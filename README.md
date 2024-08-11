@@ -22,7 +22,7 @@ INSTALLATION:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/world_tracker.git
+git clone https://github.com/Ritheshcool/world_tracker.git
 cd world_tracker
 Install the dependencies:
 npm install
